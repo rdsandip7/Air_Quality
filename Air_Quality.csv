@@ -1,0 +1,220 @@
+region_ID,state,AQI,PM2.5,PM10,CO,NO2,temperature,humidity,population,industrial,traffic,proximity_nr,vegetation,distance_to_coast
+Region1,QLD,9,11,26,11,13,29,95,124301,4,5,moderate,5,near coastal
+Region2,QLD,14,9,20,9,12,29,91,109929,4,4,moderate,6,moderate
+Region3,NSW,36,9,25,10,17,21,80,122893,3,3,low,7,inland
+Region4,QLD,20,6,14,7,9,23,87,88157,3,3,high,8,coastal
+Region5,VIC,33,5,5,6,11,12,77,103257,2,3,low,8,coastal
+Region6,NSW,64,1,2,2,4,11,60,-7751,2,2,high,9,coastal
+Region7,VIC,20,12,20,11,17,19,89,141579,5,5,moderate,5,near coastal
+Region8,VIC,31,6,10,8,13,15,79,115927,3,3,low,7,coastal
+Region9,NSW,5,20,56,18,25,32,101,197764,4,5,moderate,4,near coastal
+Region10,QLD,20,7,16,8,10,25,89,93210,3,4,high,7,inland
+Region11,QLD,14,9,20,9,12,28,91,109064,4,4,moderate,6,moderate
+Region12,NSW,52,4,6,4,10,15,68,80571,2,2,high,9,coastal
+Region13,NSW,30,10,28,12,19,23,84,136936,3,4,low,6,moderate
+Region14,SA,14,9,20,9,10,20,80,144828,3,4,moderate,5,near coastal
+Region15,NSW,36,9,24,10,16,21,77,121870,3,3,low,7,inland
+Region16,VIC,30,6,11,8,13,15,79,117008,3,3,low,7,inland
+Region17,QLD,20,7,16,8,10,25,89,95005,3,4,high,7,inland
+Region18,VIC,27,8,14,8,14,17,83,123112,3,4,low,6,moderate
+Region19,WA,18,4,8,5,8,15,74,138140,2,1,low,6,moderate
+Region20,WA,11,5,14,8,12,19,80,171275,3,2,moderate,3,near coastal
+Region21,WA,32,2,4,4,4,9,68,108384,2,1,high,8,coastal
+Region22,VIC,37,2,3,4,9,10,73,70004,2,2,high,8,coastal
+Region23,SA,15,7,15,7,8,18,79,127710,3,3,moderate,6,moderate
+Region24,QLD,21,6,12,7,9,22,86,82734,3,3,high,8,coastal
+Region25,WA,18,4,9,6,9,17,74,147335,2,2,moderate,5,near coastal
+Region26,NSW,21,14,33,14,21,27,91,158118,4,5,moderate,5,near coastal
+Region27,VIC,39,1,2,3,7,8,71,57976,2,2,high,9,coastal
+Region28,NSW,34,10,26,10,17,21,81,128507,3,3,low,7,moderate
+Region29,VIC,25,8,14,8,15,17,83,124378,3,4,low,6,moderate
+Region30,VIC,32,5,8,7,13,13,77,110306,3,3,low,7,coastal
+Region31,NSW,34,10,26,10,18,21,81,129579,3,3,low,6,moderate
+Region32,NSW,6,18,53,16,25,32,97,195703,4,5,moderate,4,near coastal
+Region33,QLD,20,7,16,8,10,24,89,92108,3,3,high,8,inland
+Region34,VIC,21,11,17,10,16,18,87,135122,4,5,moderate,5,near coastal
+Region35,NSW,49,5,13,7,12,16,68,92300,2,2,high,8,coastal
+Region36,NSW,33,10,26,10,18,22,83,132683,3,3,low,6,moderate
+Region37,WA,31,2,6,4,4,12,68,109224,2,1,high,8,coastal
+Region38,VIC,24,8,14,8,15,17,84,124655,4,4,low,6,moderate
+Region39,QLD,27,3,3,2,5,16,82,56352,2,1,high,10,coastal
+Region40,VIC,9,15,29,14,22,22,93,181272,5,5,moderate,4,near coastal
+Region41,WA,39,1,3,3,3,8,62,43077,2,1,high,8,coastal
+Region42,NSW,37,8,20,9,16,20,75,112137,2,3,low,7,inland
+Region43,NSW,31,10,27,11,18,23,83,135015,3,4,low,6,moderate
+Region44,NSW,45,5,15,7,13,17,71,97354,2,2,high,8,coastal
+Region45,QLD,19,8,18,8,10,26,90,99783,4,4,high,7,inland
+Region46,VIC,21,11,17,10,17,18,87,136599,4,5,moderate,5,near coastal
+Region47,VIC,23,8,16,9,15,17,84,126737,4,4,low,6,moderate
+Region48,NSW,39,8,20,9,15,19,75,110893,2,3,low,7,inland
+Region49,QLD,20,7,15,8,10,24,87,91668,3,3,high,8,inland
+Region50,VIC,14,13,22,12,18,20,90,146843,5,5,moderate,4,near coastal
+Region51,WA,16,5,10,8,10,17,77,154841,3,2,moderate,4,near coastal
+Region52,NSW,37,8,23,9,16,20,75,116652,2,3,low,7,inland
+Region53,SA,14,7,16,8,9,18,80,136727,3,3,moderate,6,moderate
+Region54,QLD,25,4,6,3,7,18,82,63917,2,1,high,10,coastal
+Region55,WA,26,3,6,4,6,14,69,111901,2,1,high,7,inland
+Region56,QLD,23,4,8,5,8,19,84,70847,2,1,high,9,coastal
+Region57,QLD,13,10,22,10,12,29,92,118352,4,5,moderate,6,moderate
+Region58,QLD,14,10,21,10,12,29,91,112409,4,4,moderate,6,moderate
+Region59,VIC,23,9,16,9,15,17,85,128036,4,4,low,6,moderate
+Region60,WA,14,5,12,8,10,18,78,154980,3,2,moderate,3,near coastal
+Region61,QLD,9,11,24,10,13,29,94,123437,4,5,moderate,5,near coastal
+Region62,QLD,22,5,11,6,8,21,84,79404,3,2,high,9,coastal
+Region63,SA,14,8,16,8,9,19,80,141923,3,3,moderate,6,near coastal
+Region64,VIC,23,10,16,9,15,18,85,131264,4,4,low,5,near coastal
+Region65,NSW,14,16,38,15,23,29,95,169864,4,5,moderate,4,near coastal
+Region66,TAS,21,1,5,2,2,10,81,74111,1,1,high,9,coastal
+Region67,QLD,11,10,22,10,12,29,93,122683,4,5,moderate,6,moderate
+Region68,VIC,9,15,26,13,21,21,92,179222,5,5,moderate,4,near coastal
+Region69,VIC,22,10,17,10,16,18,86,134804,4,5,low,5,near coastal
+Region70,VIC,31,6,9,7,13,14,78,111137,3,3,low,7,coastal
+Region71,QLD,6,11,29,12,14,30,96,129553,4,5,moderate,5,near coastal
+Region72,NSW,12,16,39,15,23,30,95,175406,4,5,moderate,4,near coastal
+Region73,NSW,29,11,28,12,19,23,85,142811,3,4,low,6,moderate
+Region74,QLD,24,4,6,4,8,19,84,67066,2,1,high,9,coastal
+Region75,WA,25,3,8,4,6,14,70,121575,2,1,high,7,inland
+Region76,SA,8,9,22,11,12,21,89,161395,3,4,moderate,3,near coastal
+Region77,NSW,34,9,25,10,17,21,81,125719,3,3,low,7,moderate
+Region78,SA,15,7,15,7,7,17,79,106633,3,2,moderate,7,inland
+Region79,NSW,40,7,19,8,15,19,74,110579,2,2,low,8,coastal
+Region80,QLD,15,9,20,9,12,28,91,108089,4,4,moderate,6,moderate
+Region81,NSW,20,14,35,14,22,28,92,160761,4,5,moderate,5,near coastal
+Region82,NSW,25,12,29,12,20,25,87,149524,3,4,low,6,near coastal
+Region83,SA,16,7,13,5,6,16,78,104983,2,2,high,7,coastal
+Region84,VIC,33,5,6,7,12,13,77,108541,2,3,low,8,coastal
+Region85,VIC,29,7,11,8,14,16,81,118959,3,4,low,6,inland
+Region86,VIC,33,5,8,7,13,13,77,110272,3,3,low,7,coastal
+Region87,VIC,23,9,16,9,15,17,85,130251,4,4,low,6,moderate
+Region88,ACT,70,5,3,4,9,9,48,78181,2,1,high,5,near coastal
+Region89,VIC,13,14,22,12,19,20,90,150895,5,5,moderate,4,near coastal
+Region90,QLD,20,7,14,8,10,24,87,89935,3,3,high,8,inland
+Region91,VIC,16,12,20,11,18,19,89,145982,5,5,moderate,4,near coastal
+Region92,NSW,23,13,30,13,20,25,88,154067,3,4,moderate,5,near coastal
+Region93,VIC,21,11,19,11,17,19,88,140850,4,5,moderate,5,near coastal
+Region94,NSW,15,16,38,15,22,29,93,167198,4,5,moderate,5,near coastal
+Region95,WA,20,4,8,5,8,15,71,130688,2,1,low,6,moderate
+Region96,VIC,22,10,17,10,16,18,86,134155,4,4,low,5,near coastal
+Region97,WA,28,2,6,4,4,13,69,111801,2,1,high,8,coastal
+Region98,QLD,21,6,12,7,9,23,86,86292,3,3,high,8,coastal
+Region99,NSW,29,11,28,12,19,24,86,143562,3,4,low,6,near coastal
+Region100,NSW,31,10,27,11,18,23,84,135987,3,4,low,6,moderate
+Region101,TAS,18,1,7,5,7,12,85,76938,1,1,high,9,moderate
+Region102,QLD,24,4,7,4,8,19,84,70584,2,1,high,9,coastal
+Region103,VIC,22,10,17,9,16,18,86,133878,4,4,low,5,near coastal
+Region104,NSW,48,5,13,7,13,16,70,93293,2,2,high,8,coastal
+Region105,VIC,11,14,24,13,20,21,91,153153,5,5,moderate,4,near coastal
+Region106,VIC,33,5,5,6,11,12,77,103943,2,3,low,8,coastal
+Region107,VIC,36,4,5,6,11,12,76,90812,2,3,low,8,coastal
+Region108,QLD,17,8,19,9,11,26,90,100821,4,4,high,7,inland
+Region109,VIC,22,10,17,9,15,18,85,132919,4,4,low,5,near coastal
+Region110,NSW,32,10,27,11,18,22,83,133347,3,3,low,6,moderate
+Region111,NSW,29,11,28,12,19,23,85,138500,3,4,low,6,moderate
+Region112,QLD,11,10,23,10,13,29,93,122716,4,5,moderate,6,near coastal
+Region113,ACT,63,7,7,9,11,12,69,122323,3,2,high,4,near coastal
+Region114,NSW,40,7,20,8,15,19,74,110861,2,2,low,8,inland
+Region115,WA,20,3,8,5,6,14,71,123523,2,1,high,7,inland
+Region116,QLD,21,6,13,7,9,23,86,87557,3,3,high,8,coastal
+Region117,NSW,21,14,33,14,21,27,91,159282,4,5,moderate,5,near coastal
+Region118,NSW,43,6,18,8,14,18,72,102741,2,2,high,8,coastal
+Region119,VIC,45,1,0,2,7,8,70,50554,2,2,high,9,coastal
+Region120,NSW,37,8,21,9,16,20,75,115242,2,3,low,7,inland
+Region121,TAS,16,2,10,6,10,15,89,92864,3,2,moderate,6,near coastal
+Region122,NSW,35,9,25,10,17,21,81,124465,3,3,low,7,moderate
+Region123,QLD,6,12,29,12,15,30,96,137337,4,5,moderate,5,near coastal
+Region124,VIC,20,12,20,11,18,19,89,143949,5,5,moderate,5,near coastal
+Region125,QLD,20,7,16,8,10,25,89,93423,3,4,high,7,inland
+Region126,WA,16,5,9,7,10,17,75,150174,3,2,moderate,5,near coastal
+Region127,QLD,20,6,14,8,9,23,87,89776,3,3,high,8,inland
+Region128,NSW,40,7,19,8,15,19,73,110014,2,2,low,8,coastal
+Region129,QLD,10,10,23,10,13,29,93,123167,4,5,moderate,6,near coastal
+Region130,SA,19,6,11,5,4,16,73,88058,2,2,high,7,coastal
+Region131,ACT,31,19,17,11,18,19,73,146716,3,2,moderate,1,near coastal
+Region132,VIC,32,6,8,7,13,14,78,110913,3,3,low,7,coastal
+Region133,NSW,10,17,40,15,24,30,96,182760,4,5,moderate,4,near coastal
+Region134,QLD,15,9,20,9,11,28,91,103789,4,4,moderate,7,moderate
+Region135,VIC,2,18,30,15,25,24,101,204331,5,5,moderate,4,near coastal
+Region136,QLD,20,7,15,8,10,24,87,91233,3,3,high,8,inland
+Region137,ACT,40,9,15,10,11,17,71,126474,3,2,low,2,near coastal
+Region138,QLD,15,9,19,9,11,27,91,102110,4,4,low,7,moderate
+Region139,VIC,36,4,4,5,10,12,75,83315,2,3,low,8,coastal
+Region140,NSW,41,6,18,8,15,18,72,104986,2,2,high,8,coastal
+Region141,SA,14,8,16,8,9,20,80,142254,3,4,moderate,5,near coastal
+Region142,NSW,54,4,6,3,10,14,66,80413,2,2,high,9,coastal
+Region143,QLD,31,1,2,0,5,14,77,42151,2,1,high,10,coastal
+Region144,VIC,31,6,10,8,13,15,79,114318,3,3,low,7,coastal
+Region145,NSW,18,15,36,15,22,28,92,164612,4,5,moderate,5,near coastal
+Region146,QLD,26,3,5,3,7,16,82,60493,2,1,high,10,coastal
+Region147,WA,20,3,8,5,7,14,71,124418,2,1,high,6,moderate
+Region148,NSW,36,8,23,9,16,21,76,119674,2,3,low,7,inland
+Region149,VIC,28,7,13,8,14,16,81,119037,3,4,low,6,inland
+Region150,QLD,2,14,34,13,16,32,97,153634,4,5,moderate,5,near coastal
+Region151,VIC,30,7,11,8,14,16,81,118610,3,3,low,7,inland
+Region152,VIC,27,8,14,8,14,16,83,122780,3,4,low,6,moderate
+Region153,VIC,14,13,22,12,18,20,90,147349,5,5,moderate,4,near coastal
+Region154,NSW,33,10,27,11,18,22,83,133111,3,3,low,6,moderate
+Region155,QLD,19,8,18,8,10,26,90,98045,4,4,high,7,inland
+Region156,TAS,18,2,8,6,9,15,86,87359,1,1,low,8,moderate
+Region157,NSW,22,13,32,13,21,27,88,158013,4,4,moderate,5,near coastal
+Region158,QLD,20,8,18,8,10,26,89,95131,3,4,high,7,inland
+Region159,VIC,27,8,13,8,14,16,82,120208,3,4,low,6,moderate
+Region160,VIC,36,3,4,5,10,11,74,80766,2,2,high,8,coastal
+Region161,NSW,24,12,30,12,20,25,88,151290,3,4,moderate,6,near coastal
+Region162,NT,60,19,32,9,26,34,67,122032,2,1,low,2,near coastal
+Region163,VIC,54,1,0,2,6,8,67,49511,2,2,high,9,coastal
+Region164,VIC,36,4,4,6,11,12,76,86481,2,3,low,8,coastal
+Region165,VIC,34,4,5,6,11,12,76,99769,2,3,low,8,coastal
+Region166,WA,18,4,9,6,9,17,75,149236,3,2,moderate,5,near coastal
+Region167,NSW,33,10,26,10,18,22,82,130204,3,3,low,6,moderate
+Region168,QLD,7,11,26,11,14,30,95,129530,4,5,moderate,5,near coastal
+Region169,NSW,27,11,28,12,19,25,86,145983,3,4,low,6,near coastal
+Region170,QLD,22,5,11,6,8,22,85,80159,3,2,high,9,coastal
+Region171,VIC,38,1,2,4,8,10,72,67213,2,2,high,9,coastal
+Region172,QLD,29,2,3,2,5,15,80,47564,2,1,high,10,coastal
+Region173,NSW,44,6,15,7,13,17,71,97396,2,2,high,8,coastal
+Region174,WA,11,5,13,8,11,18,79,165972,3,2,moderate,3,near coastal
+Region175,VIC,12,14,24,12,20,21,91,152977,5,5,moderate,4,near coastal
+Region176,QLD,23,5,10,5,8,20,84,71040,2,1,high,9,coastal
+Region177,NSW,31,10,27,11,18,23,84,135549,3,4,low,6,moderate
+Region178,NSW,24,13,30,13,20,25,88,153931,3,4,moderate,6,near coastal
+Region179,VIC,24,8,15,9,15,17,84,126460,4,4,low,6,moderate
+Region180,QLD,6,12,32,12,15,31,97,150977,4,5,moderate,5,near coastal
+Region181,QLD,17,9,19,9,11,27,90,101566,4,4,low,7,moderate
+Region182,NSW,44,6,17,7,13,17,71,99673,2,2,high,8,coastal
+Region183,QLD,22,5,11,6,8,21,85,79956,3,2,high,9,coastal
+Region184,QLD,22,5,12,6,8,22,86,82289,3,3,high,9,coastal
+Region185,NSW,9,17,49,16,24,30,97,183194,4,5,moderate,4,near coastal
+Region186,WA,4,5,15,8,12,22,80,175206,3,3,moderate,3,near coastal
+Region187,TAS,15,3,13,9,10,18,93,108048,3,2,moderate,5,near coastal
+Region188,NT,101,15,24,4,13,18,66,49744,1,1,high,3,moderate
+Region189,QLD,23,5,10,5,8,20,84,74629,3,2,high,9,coastal
+Region190,SA,33,5,5,3,3,12,71,85255,2,2,high,8,coastal
+Region191,SA,15,7,15,7,7,16,79,106223,3,2,high,7,coastal
+Region192,SA,18,6,13,5,5,16,76,93438,2,2,high,7,coastal
+Region193,NSW,54,4,5,3,8,14,66,75091,2,2,high,9,coastal
+Region194,SA,11,9,22,11,11,20,82,157120,3,4,moderate,4,near coastal
+Region195,VIC,21,11,18,11,17,19,88,138029,4,5,moderate,5,near coastal
+Region196,WA,2,7,20,12,12,23,81,210414,3,3,moderate,3,near coastal
+Region197,NSW,25,12,29,12,19,25,86,148726,3,4,low,6,near coastal
+Region198,QLD,13,10,22,10,12,29,92,121774,4,5,moderate,6,moderate
+Region199,VIC,42,1,2,2,7,8,70,56094,2,2,high,9,coastal
+Region200,NSW,21,14,35,14,22,28,91,160033,4,5,moderate,5,near coastal
+Region201,TAS,19,1,5,4,5,11,83,76279,1,1,high,9,coastal
+Region202,VIC,6,16,30,15,22,22,94,182974,5,5,moderate,4,near coastal
+Region203,NSW,22,13,31,13,20,26,88,156779,4,4,moderate,5,near coastal
+Region204,NSW,27,12,29,12,19,25,86,148482,3,4,low,6,near coastal
+Region205,VIC,36,3,3,5,10,10,74,79524,2,2,high,8,coastal
+Region206,VIC,37,2,3,4,9,10,74,78544,2,2,high,8,coastal
+Region207,SA,3,10,25,11,13,23,90,177172,3,4,moderate,3,near coastal
+Region208,NSW,58,3,4,3,7,12,65,73774,2,2,high,9,coastal
+Region209,QLD,23,5,10,6,8,21,84,75192,3,2,high,9,coastal
+Region210,NSW,37,8,23,9,16,20,75,117675,2,3,low,7,inland
+Region211,NSW,50,4,8,6,11,15,68,88846,2,2,high,9,coastal
+Region212,QLD,25,4,6,4,7,18,83,66888,2,1,high,10,coastal
+Region213,NSW,40,7,18,8,15,19,73,108036,2,2,low,8,coastal
+Region214,VIC,27,7,13,8,14,16,82,119941,3,4,low,6,inland
+Region215,VIC,30,7,11,8,13,15,80,117720,3,3,low,7,inland
+Region216,QLD,15,9,20,9,11,28,91,105393,4,4,moderate,7,moderate
+Region217,QLD,25,4,6,4,7,18,82,65562,2,1,high,10,coastal
+Region218,NSW,50,4,13,7,12,16,68,91169,2,2,high,9,coastal
+Region219,QLD,15,9,19,9,11,27,91,102664,4,4,low,7,moderate
